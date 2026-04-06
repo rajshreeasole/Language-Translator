@@ -10,7 +10,7 @@ The application uses Python libraries and translation APIs to detect the source 
 🖥️ Simple and user-friendly interface
 📚 Supports commonly used world languages
 
-🛠️ Technologies Used
+🛠️ Technologies Used.
 Python
 Googletrans / Translation API
 Tkinter (for GUI, if used)
