@@ -8,7 +8,7 @@ The application uses Python libraries and translation APIs to detect the source 
 🔎 Automatic language detection
 ⚡ Fast and accurate translations
 🖥️ Simple and user-friendly interface
-📚 Supports commonly used world languages
+📚 Supports commonly used world languages.
 
 🛠️ Technologies Used.
 Python
